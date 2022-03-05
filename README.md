@@ -1,2 +1,2 @@
-# CSCC69-Pintos
+# pintOS
 
